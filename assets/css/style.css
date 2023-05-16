@@ -6,7 +6,7 @@
     /*NOME DA FONTE*/
     font-family: 'Android';
     /*ONDE A FONTE DE ENCONTRA*/
-    src: url('../coisas/fontes/idroid.otf') format('opentype');
+    src: url('../font/font.otf') format('opentype');
     /*FORMA DA FONTE*/
     font-weight: normal;
 }
